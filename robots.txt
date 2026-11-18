@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationlagunaniguel.com/sitemap.xml
